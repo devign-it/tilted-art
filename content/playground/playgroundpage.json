@@ -1,0 +1,22 @@
+{
+    "title": "Playground",
+    "testing": [{
+      "title": "React Context",
+      "copy": "For global styles.",
+      "image": "../images/testing/fore.png",
+      "position": "2"
+    },
+    {
+      "title": "Page Transitions",
+      "copy": "Component-based for easy usage.",
+      "image": "../images/testing/middle.png",
+      "position": "1"
+    },
+    {
+      "title": "Intersection Observer",
+      "copy": "Including a polyfill for Safari.",
+      "image": "../images/testing/back.png",
+      "position": "0"
+    }]
+  }
+  
